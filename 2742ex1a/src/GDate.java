@@ -68,7 +68,7 @@ public class GDate {
         throw new UnsupportedOperationException();
     }
 
-    public int toJulianDay() {
+    public int julianDay() {
         // TODO - implement GDate.toJulianDay
         throw new UnsupportedOperationException();
     }

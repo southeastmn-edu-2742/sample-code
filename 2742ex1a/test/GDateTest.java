@@ -79,7 +79,7 @@ class GDateTest {
 
     @org.junit.jupiter.api.Test
     void toJulianDay() {
-        assertEquals(2451545, this.date1.toJulianDay());
+        assertEquals(2451545, this.date1.julianDay());
     }
 
     @org.junit.jupiter.api.Test
