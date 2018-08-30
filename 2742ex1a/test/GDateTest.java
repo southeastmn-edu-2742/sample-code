@@ -1,7 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
 class GDateTest {
-
     GDate date1;
 
     @org.junit.jupiter.api.BeforeEach
@@ -19,6 +18,24 @@ class GDateTest {
     void notEquals() {
         GDate date2 = new GDate(2000, 1, 2);
         assertFalse(this.date1.equals(date2));
+    }
+
+    @org.junit.jupiter.api.Test
+    void testYMDConstructor() {
+        GDate date2 = new GDate(2000, 1, 1);
+        assertTrue(this.date1.equals(date2));
+    }
+
+    @org.junit.jupiter.api.Test
+    void testCopyConstructor() {
+        GDate date2 = new GDate(this.date1);
+        assertTrue(this.date1.equals(date2));
+    }
+
+    @org.junit.jupiter.api.Test
+    void testJulianDayConstructor() {
+        GDate date2 = new GDate(2451545);
+        assertTrue(this.date1.equals(date2));
     }
 
     @org.junit.jupiter.api.Test
@@ -84,5 +101,4 @@ class GDateTest {
     void toFmtString() {
         assertEquals("2000.01.01", this.date1.toString());
     }
-
 }
