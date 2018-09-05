@@ -4,14 +4,16 @@ public class Invoice {
     private int invoiceId;
     private int status;
     private GDate invoiceDate;
+    private GDate dueDate;
     private LineItem[] lineItems;
 
     /**
      *
      * @param status
      * @param invoiceDate
+     * @param dueDate
      */
-    public Invoice(int status, GDate invoiceDate) {
+    public Invoice(int status, GDate invoiceDate, GDate dueDate) {
         // TODO - implement Invoice.Invoice
         throw new UnsupportedOperationException();
     }
@@ -34,7 +36,7 @@ public class Invoice {
      *
      * @param lineItem
      */
-    public void addLineItem(int lineItem) {
+    public void addLineItem(LineItem lineItem) {
         // TODO - implement Invoice.addLineItem
         throw new UnsupportedOperationException();
     }
