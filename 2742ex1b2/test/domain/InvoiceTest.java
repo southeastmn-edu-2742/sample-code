@@ -51,6 +51,7 @@ class InvoiceTest {
         this.invoice1.addLineItem(lineItem1);
         LineItem removedLineItem = this.invoice1.removeLineItem(0);
         assertEquals(lineItem1, removedLineItem);
+        assertFalse(lineItem1 == removedLineItem);
         // test removing from empty ArrayList
         removedLineItem = this.invoice1.removeLineItem(0);
         assertEquals(null, removedLineItem);
@@ -59,6 +60,7 @@ class InvoiceTest {
         this.invoice1.addLineItem(lineItem1);
         removedLineItem = this.invoice1.removeLineItem(lineItem1);
         assertEquals(lineItem1, removedLineItem);
+        assertFalse(lineItem1 == removedLineItem);
         // test removing from empty ArrayList
         removedLineItem = this.invoice1.removeLineItem(lineItem1);
         assertEquals(null, removedLineItem);
