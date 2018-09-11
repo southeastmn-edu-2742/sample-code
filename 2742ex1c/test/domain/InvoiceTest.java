@@ -47,6 +47,11 @@ class InvoiceTest {
 
     @Test
     void copy() {
+        // Ex1c: add LineItems
+        this.invoice1.addLineItem(new LineItem(1.0, "description1"));
+        this.invoice1.addLineItem(new LineItem(2.0, "description2"));
+        this.invoice1.addLineItem(new LineItem(3.0, "description3"));
+
         Invoice invoice2 = this.invoice1.copy();
         assertEquals(this.invoice1.getInvoiceId(), invoice2.getInvoiceId());
         assertEquals(this.invoice1.getStatus(), invoice2.getStatus());
