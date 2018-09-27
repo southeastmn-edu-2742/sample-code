@@ -131,9 +131,9 @@ class ApartmentTest {
     @Test
     void getInvoice() {
         Invoice invoice1 = new Invoice(1,
-            LocalDateTime.of(2019, Month.OCTOBER, 15, 0, 0),
-            LocalDateTime.of(2019, Month.NOVEMBER, 1, 0, 0),
-            this.apt);
+                LocalDateTime.of(2019, Month.OCTOBER, 15, 0, 0),
+                LocalDateTime.of(2019, Month.NOVEMBER, 1, 0, 0),
+                this.apt);
         invoice1.addLineItem( new LineItem(5.0, "description5") );
         invoice1.addLineItem( new LineItem(6.0, "description6") );
         invoice1.addLineItem( new LineItem(7.0, "description7") );
@@ -165,9 +165,11 @@ class ApartmentTest {
             this.apt.addInvoice(invoice);
         }
 
+        ArrayList<Invoice> invoices2 = this.apt.getInvoices();
+
         for (int i = 0; i < invoices.size(); i++) {
             Invoice invoice1 = invoices.get(i);
-            Invoice invoice2 = this.apt.getInvoice(i);
+            Invoice invoice2 = invoices2.get(i);
             assertEquals(invoice1, invoice2);               // invoice1 must equal invoice2
             assertFalse(invoice1 == invoice2);    // invoice1 must be copy of invoice2
         }

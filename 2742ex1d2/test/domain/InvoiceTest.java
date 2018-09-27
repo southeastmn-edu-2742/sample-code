@@ -12,14 +12,19 @@ import static org.junit.jupiter.api.Assertions.*;
 class InvoiceTest {
 
     Invoice invoice1;
+    Apartment apartment;
 
     @BeforeEach
     void setUp() {
-//        this.invoice1 = new Invoice(1, new GDate(), new GDate());
+        this.apartment = new Apartment();
+//        this.invoice1 = new Invoice(1,
+//                LocalDateTime.of(2019, Month.SEPTEMBER, 1, 0, 0),
+//                LocalDateTime.of(2019, Month.SEPTEMBER, 11, 0, 0),
+//                null);
         this.invoice1 = new Invoice(1,
                 LocalDateTime.of(2019, Month.SEPTEMBER, 1, 0, 0),
                 LocalDateTime.of(2019, Month.SEPTEMBER, 11, 0, 0),
-                null);
+                this.apartment);
     }
 
     @Test
@@ -51,6 +56,8 @@ class InvoiceTest {
             assertFalse(lineItem1 == lineItem2);
             i++;
         }
+
+        assertTrue(this.invoice1.getApartment() == this.apartment);
     }
 
     @Test
@@ -84,11 +91,9 @@ class InvoiceTest {
             assertFalse(lineItem1 == lineItem2);
             i++;
         }
-    }
 
-//    @Test
-//    void addLineItem() {
-//    }
+        assertTrue(this.invoice1.getApartment() == this.apartment);
+    }
 
     @Test
     void removeLineItem() {
