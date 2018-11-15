@@ -29,7 +29,7 @@
     "employmentStartDate":"2014/04/04",
     "monthlyRate":400.0
   },
-  "hourlAdministrator":{
+  "hourlyAdministrator":{
     "personId":105,
     "lastName":"Reisner",
     "firstName":"Linda",
