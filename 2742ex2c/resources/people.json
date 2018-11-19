@@ -40,11 +40,11 @@
     "employmentStartDate":"2015/05/05",
     "hourlyRate":50.0,
     "timeCards":[
-      {"Id":10001,"startDateTime":"2019/11/12 08:00AM","endDateTime":"2019/11/12 06:00PM"},
-      {"Id":10002,"startDateTime":"2019/11/13 08:00AM","endDateTime":"2019/11/13 06:00PM"},
-      {"Id":10003,"startDateTime":"2019/11/14 08:00AM","endDateTime":"2019/11/14 06:00PM"},
-      {"Id":10004,"startDateTime":"2019/11/15 08:00AM","endDateTime":"2019/11/15 06:00PM"},
-      {"Id":10005,"startDateTime":"2019/11/16 08:00AM","endDateTime":"2019/11/16 06:00PM"}
+      {"id":10001,"startDateTime":"2019/11/12 08:00AM","endDateTime":"2019/11/12 06:00PM"},
+      {"id":10002,"startDateTime":"2019/11/13 08:00AM","endDateTime":"2019/11/13 06:00PM"},
+      {"id":10003,"startDateTime":"2019/11/14 08:00AM","endDateTime":"2019/11/14 06:00PM"},
+      {"id":10004,"startDateTime":"2019/11/15 08:00AM","endDateTime":"2019/11/15 06:00PM"},
+      {"id":10005,"startDateTime":"2019/11/16 08:00AM","endDateTime":"2019/11/16 06:00PM"}
     ]
   }
 }
