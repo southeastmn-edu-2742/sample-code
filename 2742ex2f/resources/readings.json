@@ -1,0 +1,830 @@
+{
+  "readings": [
+    {
+      "sensorReadingId": 60161,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:01:43.54235",
+      "value": 29,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60162,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:03:04.7657807",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60163,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:05:06.5187565",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60164,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:05:47.3773175",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60165,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:06:48.2299219",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60166,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:07:28.8307888",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60167,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:08:09.4228174",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60168,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:08:29.7470375",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60169,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:08:50.0713275",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60170,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:09:10.414181",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60171,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:09:30.9600659",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60172,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:10:32.0007729",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60173,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:11:53.0991712",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60174,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:13:54.6877721",
+      "value": 35,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60175,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:14:35.260303",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60176,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:14:55.5949902",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60177,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:15:15.9163545",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60178,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:15:36.4555901",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60179,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:15:56.780231",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60180,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:17:38.1135469",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60181,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:17:58.438008",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60182,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:18:39.0121566",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60183,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:18:59.3359573",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60184,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:19:39.9102218",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60185,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:20:40.7363397",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60186,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:22:01.8122458",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60187,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:23:22.8950029",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60188,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:26:05.196114",
+      "value": 29,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60189,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:27:26.2865441",
+      "value": 28,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60190,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:30:48.8790083",
+      "value": 27,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60191,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:33:30.971949",
+      "value": 28,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60192,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:36:13.0535836",
+      "value": 27,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60193,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:42:17.693931",
+      "value": 26,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60194,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T10:48:02.0387876",
+      "value": 25,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60195,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T11:01:12.9611326",
+      "value": 24,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60196,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T11:22:33.0648328",
+      "value": 23,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60201,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T11:50:55.0672955",
+      "value": 22,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60202,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T11:51:15.4076671",
+      "value": 23,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60203,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T11:51:35.9459439",
+      "value": 22,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60208,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T12:32:51.469847",
+      "value": 21,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60213,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:48:08.1320987",
+      "value": 20,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60214,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:48:28.4541734",
+      "value": 21,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60215,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:48:48.7767317",
+      "value": 20,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60216,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:50:09.8739666",
+      "value": 21,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60217,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:51:10.7074963",
+      "value": 22,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60218,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:51:31.0383578",
+      "value": 23,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60219,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:52:11.6218027",
+      "value": 24,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60220,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:52:52.212881",
+      "value": 25,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60221,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:53:32.7856902",
+      "value": 26,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60222,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:53:53.1214268",
+      "value": 27,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60223,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:54:33.9108861",
+      "value": 28,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60224,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:55:34.7362142",
+      "value": 29,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60225,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:55:55.3411377",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60226,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:56:35.9303777",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60227,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:56:56.2663413",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60228,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:57:36.8532873",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60229,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:57:57.1880754",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60230,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:58:58.2335302",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60231,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:59:39.0374387",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60232,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T13:59:59.3898961",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60233,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:00:39.9885161",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60234,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:01:20.7787973",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60235,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:02:21.629545",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60236,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:03:22.6865704",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60237,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:04:03.2855436",
+      "value": 35,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60238,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:05:24.5905913",
+      "value": 36,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60239,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:05:45.1385919",
+      "value": 37,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60240,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:07:46.7357838",
+      "value": 38,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60241,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:11:09.5955986",
+      "value": 39,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60242,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:14:52.4413784",
+      "value": 38,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60243,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:15:12.7898206",
+      "value": 37,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60244,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:15:33.3373645",
+      "value": 35,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60245,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:15:53.658113",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60246,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:16:13.9922513",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60247,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:17:35.2899231",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60248,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:18:36.3436364",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60249,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:18:56.6769865",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60250,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:19:57.626683",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60251,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:20:38.2067554",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60252,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:20:58.5526392",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60253,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:22:19.6405295",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60254,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:23:00.4272208",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60255,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:25:22.2752224",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60256,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:27:03.609654",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60257,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:28:05.4453558",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60258,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:28:46.0310623",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60259,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:29:26.6167099",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60260,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:30:07.2064846",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60261,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:30:27.9454829",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60262,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:31:49.2413853",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60263,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:33:50.8270372",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60264,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:35:32.1712535",
+      "value": 35,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60265,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:36:33.2225793",
+      "value": 36,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60266,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:36:53.7568251",
+      "value": 37,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60267,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:38:14.8700197",
+      "value": 38,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60268,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:40:36.6996328",
+      "value": 39,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60269,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:43:39.0419092",
+      "value": 38,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60270,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:43:59.390159",
+      "value": 37,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60271,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:44:19.7374035",
+      "value": 35,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60272,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:44:40.0701687",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60273,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:45:41.1205073",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60274,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:46:41.9467014",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60282,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:47:43.7730741",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60283,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:48:04.1073045",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60284,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:49:25.2012607",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60285,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:49:45.5247647",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60286,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:50:05.8482081",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60287,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:50:26.1908045",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60288,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:50:46.5376276",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60289,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:51:47.3748689",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60290,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:52:27.9512018",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60291,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:54:29.5363789",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60292,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:56:10.8617993",
+      "value": 33,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60293,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:57:31.9581601",
+      "value": 34,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60294,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:58:12.5498282",
+      "value": 32,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60295,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:58:53.1484965",
+      "value": 30,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60296,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:59:13.4962696",
+      "value": 31,
+      "sensor": null
+    },
+    {
+      "sensorReadingId": 60297,
+      "sensorId": 2,
+      "dateTime": "2018-11-26T14:59:33.8406899",
+      "value": 32,
+      "sensor": null
+    }
+  ]
+}
