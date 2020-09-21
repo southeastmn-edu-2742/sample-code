@@ -76,6 +76,18 @@ class InvoiceTest {
         }
     }
 
+    @Test
+    void getLineItems() {
+        this.invoice1.addLineItem( new LineItem(1.0, "description1") );
+        this.invoice1.addLineItem( new LineItem(2.0, "description2") );
+        this.invoice1.addLineItem( new LineItem(3.0, "description3") );
+        this.invoice1.addLineItem( new LineItem(4.0, "description4") );
+
+        ArrayList<LineItem> lineItems = new ArrayList<LineItem>();
+        lineItems = this.invoice1.getLineItems();
+        assertEquals(4, lineItems.size());
+    }
+
 //    @Test
 //    void addLineItem() {
 //    }
