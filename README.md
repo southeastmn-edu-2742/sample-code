@@ -1,3 +1,3 @@
 # Sample Code
 
-Public repository with bootstrap code for COMC-2747 exercises.
+Public repository with bootstrap code for COMC-2742 exercises.
